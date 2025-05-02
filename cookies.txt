@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kiierr.com	TRUE	/	FALSE	1999999999	cuw_ppu_offer	1745908175
+.kinsta.cloud	TRUE	/	FALSE	1999999999	__cf_bm	Sxg0nWeHJql46aG8WyvjbuhnM.1Rogcat6b9.aioilM-1745908199-1.0.1.1-YVHastCBCt6jgNoIh07G6g6Rdgc4qcZn62DytsNseB_GgM.IOy_UetiWF4_bJbfr.IKOdkhsor6vu_YqR98yQ8TDJBIoJ_5BfiuVluW2mNw
+kiierrdev.kinsta.cloud	TRUE	/	FALSE	1999999999	SameSite	None
+kiierr.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+kiierr.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_300dd08cb210aa8826489d4ec2fb8a5d	t_fcce0595dbe10b71e1b6a0f2679423%7C%7C1746081038%7C%7C1746077438%7C%7C7088fd9fe83de902d3163dd22b1c7fe7
+.calendly.com	TRUE	/	FALSE	1999999999	__cf_bm	UEBRb.TzQSUWoTDW68g6ENzSkpkdwP4FBj5Q1LWGLZQ-1745908614-1.0.1.1-7WEJ74x5S02ABOTV4iQPMmoNYoEB_yvQqV_50HganJpvxBy_SDy7pwoV3M33v6N9DbR8VGJAe8LHeusYpCfaKAAWuer8IjiS_v5xBKJWpTo
+.calendly.com	TRUE	/	FALSE	1999999999	_cfuvid	NQrKWgDGSwIJB.mXKZSpOpA.CNlKkuxZB5zqZtCL1vE-1745908614795-0.0.1.1-604800000
+assets.calendly.com	TRUE	/	FALSE	1999999999	SameSite	None
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	TjIdYNcsul2NavNX7YEapHlzz3o_PyRqudfYsWGW2Ak-1745910704-1.0.1.1-IXRejb0yMBKOLKyWs3SZU7WEcRbBT9TJFEoiVqMQfpJFC9HqcpgAYhFGZBkPMxx5
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	RO6W4khyYe98DMhyarF2CgrJPeFuKIxj.AHqlU3FxKM-1745910704629-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+.afterpay.com	TRUE	/	FALSE	1999999999	__cf_bm	nHmVH7gyYHRjgk1Ps4skJxy_Agx76RhuT3_Ygwj5MQs-1745910921-1.0.1.1-Q0CeXA439rG2JidVYl29J0I6trsaIuJ3jUOjfaMcOKa2wKFSgUSWEmjyeRFhSyZG3RCPpYgPc3.NrH_y8ZEKUTEXj55xOw4PcEEq96Tag6bzCvZadFH6wPP4qeVd6oTA
+.afterpay.com	TRUE	/	FALSE	1999999999	_cfuvid	e1PpEf61YTZN8qFP6Hg1Tl90sW8EaHebrDwkfTK1Jok-1745910921888-0.0.1.1-604800000
+js.squarecdn.com	TRUE	/	FALSE	1999999999	SameSite	None
+kiierr.com	TRUE	/	FALSE	1999999999	wjecf_free_product_coupons	%5B%5D
+kiierr.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	33411c5f6d78fa233ba78d92d9869bda
+.kiierr.com	TRUE	/	FALSE	1999999999	__cf_bm	oSKcssHDPOQMJXwlKC1VLOsMO014E8Eo2XMs10QN25s-1745916388-1.0.1.1-0HO9M9USgbxIQZRxi755Ynnvl01Hy86rLErCl9QMz9oqP0GISQDQEZdplI_SlKxE95l6VeUoF5pZikOUOTVGBeOZWq.p06ycBd.KTho1kdk
+kiierr.com	TRUE	/	FALSE	1999999999	SameSite	None
+

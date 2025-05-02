@@ -1,0 +1,145 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 29 Apr 2025 02:29:16 at https://kiierr.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kiierr.com/ -O1 "C:\My Web Sites\kier" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:31:13	Warning: 	Found for https://kiierr.com/ew2e/
+02:31:13	Warning: 	Warning moved treated for https://kiierr.com/ew2e/ (real one is https://www.googletagmanager.com/gtm.js?fps=fc&mpath=%2Few2e%2F&gtm_region_override=CA-ON&id=GTM-W99W862)
+02:31:13	Error: 	"Forbidden" (403) at link https://kiierr.com/xmlrpc.php (from https://kiierr.com/)
+02:31:13	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://kiierr.com/)
+02:31:26	Error: 	"Forbidden" (403) at link https://kiierr.com/xmlrpc.php?rsd (from https://kiierr.com/)
+02:31:26	Error: 	"Not Found" (404) at link https://kiierr.com/images/shdow.png (from https://kiierr.com/)
+02:32:29	Warning: 	Link https://kiierr.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+02:32:41	Warning: 	Moved Permanently for https://kiierr.com/product/new-laser-cap/
+02:32:41	Warning: 	File has moved from https://kiierr.com/product/new-laser-cap/ to https://kiierr.com/product/dualwave-laser-cap/
+02:33:29	Warning: 	Moved Permanently for https://kiierr.com/kiierr-laser-caps-before-after-photos/
+02:33:29	Warning: 	File has moved from https://kiierr.com/kiierr-laser-caps-before-after-photos/ to https://kiierr.com/laser-cap-customer-reviews/
+02:34:02	Warning: 	Moved Permanently for https://kiierr.com/product/miracle-wand/
+02:34:02	Warning: 	File has moved from https://kiierr.com/product/miracle-wand/ to https://kiierr.com/product/miracle-wand-7-in-1-light-therapy-with-massage-heat-for-skincare/
+02:38:50	Warning: 	Moved Permanently for https://kiierr.com/all-hair-growth-products/
+02:38:50	Warning: 	File has moved from https://kiierr.com/all-hair-growth-products/ to https://kiierr.com/best-sellers/
+02:38:56	Warning: 	Moved Permanently for https://kiierr.com/testimonials/
+02:38:56	Warning: 	File has moved from https://kiierr.com/testimonials/ to https://kiierr.com/laser-cap-customer-reviews/
+02:40:24	Error: 	"Not Found" (404) at link https://kiierr.com/Schedule A Consultation (from https://kiierr.com/)
+02:40:51	Error: 	"Not Found" (404) at link https://kiierr.com/wp-content/themes/flatsome-childassets/js/child-main.js (from https://kiierr.com/)
+02:40:51	Error: 	"Not Found" (404) at link https://kiierr.com/wp-content/themes/flatsome-child/assets/css/ajax-loader.gif (from https://kiierr.com/wp-content/themes/flatsome-child/assets/css/slick-theme.min.css?ver=1.2.45)
+02:40:51	Error: 	"Not Found" (404) at link https://kiierr.com/wp-content/themes/flatsome-child/assets/css/fonts/slick.eot (from https://kiierr.com/wp-content/themes/flatsome-child/assets/css/slick-theme.min.css?ver=1.2.45)
+02:40:51	Error: 	"Not Found" (404) at link https://kiierr.com/wp-content/themes/flatsome-child/assets/css/fonts/slick.eot? (from https://kiierr.com/wp-content/themes/flatsome-child/assets/css/slick-theme.min.css?ver=1.2.45)
+02:40:51	Error: 	"Not Found" (404) at link https://kiierr.com/wp-content/themes/flatsome-child/assets/css/fonts/slick.woff (from https://kiierr.com/wp-content/themes/flatsome-child/assets/css/slick-theme.min.css?ver=1.2.45)
+02:40:51	Error: 	"Not Found" (404) at link https://kiierr.com/wp-content/themes/flatsome-child/assets/css/fonts/slick.ttf (from https://kiierr.com/wp-content/themes/flatsome-child/assets/css/slick-theme.min.css?ver=1.2.45)
+02:40:51	Error: 	"Not Found" (404) at link https://kiierr.com/wp-content/themes/flatsome-child/assets/css/fonts/slick.svg (from https://kiierr.com/wp-content/themes/flatsome-child/assets/css/slick-theme.min.css?ver=1.2.45)
+02:40:51	Error: 	"Not Found" (404) at link https://kiierr.com/xhr.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+02:40:51	Error: 	"Not Found" (404) at link https://kiierr.com/GET (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+02:40:51	Error: 	"Not Found" (404) at link https://kiierr.com/lib/widget-management.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+02:40:55	Warning: 	Moved Permanently for https://kiierr.com/?p=76750
+02:40:55	Warning: 	File has moved from https://kiierr.com/?p=76750 to https://kiierr.com/product/kiierr-laser-hair-growth-products/
+02:40:55	Error: 	"Not Found" (404) at link https://kiierr.com/product/images/shdow.png (from https://kiierr.com/product/kiierr-laser-hair-growth-products/)
+02:51:08	Warning: 	Link https://kiierr.com/product/kiierr-super-hair-growth-collagen-autoship/ not scanned (follow robots meta tag)
+02:51:21	Warning: 	Moved Permanently for https://kiierr.com/product/dualwave-laser-cap/
+02:51:21	Warning: 	File has moved from https://kiierr.com/product/dualwave-laser-cap/ to https://kiierr.com/product/312-md-dualwave-laser-cap/
+02:51:21	Warning: 	Moved Permanently for https://kiierr.com/?p=37838
+02:51:21	Warning: 	File has moved from https://kiierr.com/?p=37838 to https://kiierr.com/hair-growth-supplements/
+02:53:45	Warning: 	Moved Permanently for https://kiierr.com/?p=85605
+02:53:45	Warning: 	File has moved from https://kiierr.com/?p=85605 to https://kiierr.com/best-sellers/
+02:56:30	Warning: 	Moved Permanently for https://kiierr.com/?p=39
+02:56:30	Warning: 	File has moved from https://kiierr.com/?p=39 to https://kiierr.com/how-it-works/
+02:56:30	Warning: 	Moved Permanently for https://kiierr.com/?p=11390
+02:56:30	Warning: 	File has moved from https://kiierr.com/?p=11390 to https://kiierr.com/fda-clearance/
+02:56:30	Warning: 	Moved Permanently for https://kiierr.com/?p=65500
+02:56:30	Warning: 	File has moved from https://kiierr.com/?p=65500 to https://kiierr.com/faqs/
+02:56:30	Error: 	"Not Found" (404) at link https://kiierr.com/lllt-hair-growth-studies/ (from https://kiierr.com/faqs/)
+02:56:30	Warning: 	Moved Permanently for https://kiierr.com/?p=99771
+02:56:30	Warning: 	File has moved from https://kiierr.com/?p=99771 to https://kiierr.com/product/kiierr-revive-professional-skincare-mask/
+02:56:30	Warning: 	Moved Permanently for https://kiierr.com/product/?add-to-cart=99771&quantity=1
+02:56:30	Warning: 	Warning moved treated for https://kiierr.com/product/?add-to-cart=99771&quantity=1 (real one is https://kiierr.com/wp-content/uploads/2023/07/product.png)
+02:56:33	Warning: 	Moved Permanently for https://kiierr.com/?p=80342
+02:56:33	Warning: 	File has moved from https://kiierr.com/?p=80342 to https://kiierr.com/product/red-blue-light-phototherapy-laser-massage-comb/
+02:58:04	Warning: 	Moved Permanently for https://kiierr.com/?p=84833
+02:58:04	Warning: 	File has moved from https://kiierr.com/?p=84833 to https://kiierr.com/product/kiierr-halo-6-in-1-light-therapy-for-face-body/
+02:58:33	Warning: 	Moved Permanently for https://kiierr.com/?p=85869
+02:58:33	Warning: 	File has moved from https://kiierr.com/?p=85869 to https://kiierr.com/product/kiierr-smooth-ipl-hair-removal-device/
+02:59:03	Warning: 	Moved Permanently for https://kiierr.com/?p=84709
+02:59:03	Warning: 	File has moved from https://kiierr.com/?p=84709 to https://kiierr.com/product/kiierr-purify-filtered-shower-head-15-stage-water-filter-for-healthy-hair-skin/
+02:59:25	Error: 	"Not Found" (404) at link https://kiierr.com/product-category/images/shdow.png (from https://kiierr.com/product-category/beauty/)
+03:00:00	Warning: 	Moved Permanently for https://kiierr.com/?p=84515
+03:00:00	Warning: 	File has moved from https://kiierr.com/?p=84515 to https://kiierr.com/product/miracle-wand-7-in-1-light-therapy-with-massage-heat-for-skincare/
+03:00:23	Warning: 	Moved Permanently for https://kiierr.com/?p=90537
+03:00:23	Warning: 	File has moved from https://kiierr.com/?p=90537 to https://kiierr.com/holiday-gifts/
+03:01:04	Warning: 	Moved Permanently for https://kiierr.com/?p=13302
+03:01:04	Warning: 	File has moved from https://kiierr.com/?p=13302 to https://kiierr.com/laser-cap-customer-reviews/
+03:01:04	Warning: 	Moved Permanently for https://kiierr.com/?p=11377
+03:01:04	Warning: 	File has moved from https://kiierr.com/?p=11377 to https://kiierr.com/kiierr-laser-cap-science/
+03:01:04	Warning: 	Moved Permanently for https://kiierr.com/?p=82743
+03:01:04	Warning: 	File has moved from https://kiierr.com/?p=82743 to https://kiierr.com/how-kiierr-laser-cap-technology-works/
+03:01:04	Warning: 	Moved Permanently for https://kiierr.com/?p=25952
+03:01:04	Warning: 	File has moved from https://kiierr.com/?p=25952 to https://kiierr.com/hair-loss-evaluation/
+03:01:04	Warning: 	Moved Permanently for https://kiierr.com/?p=64868
+03:01:04	Warning: 	File has moved from https://kiierr.com/?p=64868 to https://kiierr.com/laser-cap-learning-hub/
+03:06:00	Error: 	"Not Found" (404) at link https://kiierr.com/laser-cap-lllt-vs-prp-hair-loss/ (from https://kiierr.com/laser-cap-learning-hub/)
+03:10:53	Warning: 	Moved Permanently for https://kiierr.com/?p=49329
+03:10:53	Warning: 	File has moved from https://kiierr.com/?p=49329 to https://kiierr.com/schedule-your-free-hair-growth-consultation/
+03:10:53	Warning: 	Moved Permanently for https://kiierr.com/?p=63
+03:10:53	Warning: 	File has moved from https://kiierr.com/?p=63 to https://kiierr.com/how-to-use/
+03:10:53	Warning: 	Moved Permanently for https://kiierr.com/?p=50849
+03:10:53	Warning: 	File has moved from https://kiierr.com/?p=50849 to https://kiierr.com/our-story/
+03:15:10	Warning: 	Moved Permanently for https://kiierr.com/?p=37805
+03:15:10	Warning: 	File has moved from https://kiierr.com/?p=37805 to https://kiierr.com/medical-advisors/
+03:15:10	Warning: 	Moved Permanently for https://kiierr.com/?p=41
+03:15:10	Warning: 	File has moved from https://kiierr.com/?p=41 to https://kiierr.com/contact-us/
+03:15:10	Error: 	"Not Found" (404) at link https://kiierr.com/contact-us/service@kiierr.com (from https://kiierr.com/contact-us/)
+03:15:10	Warning: 	Moved Permanently for https://kiierr.com/?p=6276
+03:15:10	Warning: 	File has moved from https://kiierr.com/?p=6276 to https://kiierr.com/cart/
+03:15:33	Warning: 	Moved Permanently for https://kiierr.com/?p=97387
+03:15:33	Warning: 	File has moved from https://kiierr.com/?p=97387 to https://kiierr.com/product/kiierr-laser-cap-hair-growth-system-2new/
+03:15:33	Warning: 	Found for https://kiierr.com/cart/?remove_item=158936fd3da86ef28bbc36dd9db2ea9e&_wpnonce=63bed4ff12
+03:15:33	Warning: 	File has moved from https://kiierr.com/cart/?remove_item=158936fd3da86ef28bbc36dd9db2ea9e&_wpnonce=63bed4ff12 to http://kiierr.com/product/kiierr-laser-cap-hair-growth-system-2new/?quantity=1&removed_item=1
+03:15:34	Warning: 	Moved Permanently for https://kiierr.com/?p=15827
+03:15:34	Warning: 	File has moved from https://kiierr.com/?p=15827 to https://kiierr.com/product/kiierr272premier-md/
+03:16:10	Warning: 	Moved Permanently for https://kiierr.com/?p=43738
+03:16:10	Warning: 	File has moved from https://kiierr.com/?p=43738 to https://kiierr.com/product/certified-refurbished-272premier-laser-cap/
+03:16:20	Warning: 	Moved Permanently for https://kiierr.com/?p=76312
+03:16:20	Warning: 	File has moved from https://kiierr.com/?p=76312 to https://kiierr.com/vip-membership/
+03:17:00	Warning: 	Moved Permanently for https://kiierr.com/?p=16539
+03:17:00	Warning: 	File has moved from https://kiierr.com/?p=16539 to https://kiierr.com/affiliate-program/
+03:17:07	Warning: 	Moved Permanently for https://kiierr.com/?p=64540
+03:17:07	Warning: 	File has moved from https://kiierr.com/?p=64540 to https://kiierr.com/refer-a-friend/
+03:17:07	Warning: 	Moved Permanently for https://kiierr.com/?p=11328
+03:17:07	Warning: 	File has moved from https://kiierr.com/?p=11328 to https://kiierr.com/refund-policy/
+03:17:07	Warning: 	Moved Permanently for https://kiierr.com/?p=39434
+03:17:07	Warning: 	File has moved from https://kiierr.com/?p=39434 to https://kiierr.com/blogger-and-youtube-reviews/
+03:17:07	Warning: 	Moved Permanently for https://kiierr.com/?p=74954
+03:17:07	Warning: 	File has moved from https://kiierr.com/?p=74954 to https://kiierr.com/do-not-sell-my-personal-information/
+03:17:14	Warning: 	Moved Permanently for https://kiierr.com/?p=11687
+03:17:14	Warning: 	File has moved from https://kiierr.com/?p=11687 to https://kiierr.com/warranty-registration/
+03:17:35	Warning: 	Moved Permanently for https://kiierr.com/?p=72597
+03:17:35	Warning: 	File has moved from https://kiierr.com/?p=72597 to https://kiierr.com/careers/
+03:17:35	Warning: 	Moved Permanently for https://kiierr.com/?p=84521
+03:17:35	Warning: 	File has moved from https://kiierr.com/?p=84521 to https://kiierr.com/product/illuminate-7-in-1-light-therapy-mask-for-skincare/
+03:18:11	Warning: 	Moved Permanently for https://kiierr.com/?p=81344
+03:18:11	Warning: 	File has moved from https://kiierr.com/?p=81344 to https://kiierr.com/product/skiin-radiate-facial-wand/
+03:18:45	Warning: 	Moved Permanently for https://kiierr.com/?p=84701
+03:18:45	Warning: 	File has moved from https://kiierr.com/?p=84701 to https://kiierr.com/product/radiant-renewal-skin-serum/
+03:19:16	Warning: 	Moved Permanently for https://kiierr.com/?p=74941
+03:19:16	Warning: 	File has moved from https://kiierr.com/?p=74941 to https://kiierr.com/accessibility/
+03:19:16	Error: 	"Not Found" (404) at link https://kiierr.com/fda-cleared-laser-cap-to-regrow-hair-after-hair-loss/ (from https://kiierr.com/accessibility/)
+03:19:16	Warning: 	Moved Permanently for https://kiierr.com/?p=6731
+03:19:16	Warning: 	File has moved from https://kiierr.com/?p=6731 to https://kiierr.com/terms-conditions/
+03:19:17	Warning: 	Moved Permanently for https://kiierr.com/?p=6724
+03:19:17	Warning: 	File has moved from https://kiierr.com/?p=6724 to https://kiierr.com/privacy-policy/
+03:19:17	Warning: 	Moved Permanently for https://kiierr.com/?p=52730
+03:19:17	Warning: 	File has moved from https://kiierr.com/?p=52730 to https://kiierr.com/editorial-policy/
+03:19:26	Warning: 	Moved Permanently for https://kiierr.com/?p=6278
+03:19:26	Warning: 	File has moved from https://kiierr.com/?p=6278 to https://kiierr.com/my-account/
+03:19:26	Error: 	"Not Found" (404) at link https://kiierr.com/my-account/images/shdow.png (from https://kiierr.com/my-account/lost-password/)
+03:23:30	Error: 	"Not Found" (404) at link https://kiierr.com/category/images/shdow.png (from https://kiierr.com/category/1-rated-fda-cleared-hair-loss-treatment/)
+04:40:46	Warning: 	Found for https://kiierr.com/author/sarah/
+04:40:46	Warning: 	File has moved from https://kiierr.com/author/sarah/ to https://kiierr.com
+04:46:28	Error: 	Exit requested by shell or user
+04:46:48	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

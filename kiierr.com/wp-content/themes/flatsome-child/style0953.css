@@ -1,0 +1,167 @@
+/*
+Theme Name: Flatsome Child
+Template: flatsome
+Version: 3.18.6
+
+*/
+
+
+#product-103061 .price-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 12px;
+    margin-bottom: 26px;
+}
+
+#product-103061 .price-wrapper .price {
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    height: auto;
+    font-size: 17px;
+}
+
+#product-103061 .newp {
+    float: none;
+    display: flex;
+    align-items: center;
+}
+
+#product-103061 .newp h4 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#product-103061 span.woocommerce-Price-currencySymbol {
+    vertical-align: baseline !important;
+    font-size: 100% !important;
+}
+
+#product-103061 .product-short-description p {
+    font-size: 14px;
+    color: #656565;
+    font-weight: 500;
+    margin-bottom: 26px;
+}
+
+#product-103061 .product-short-description h2 {
+    font-size: 15px;
+    font-weight: 700;
+    color: #EE3B26;
+    text-transform: capitalize;
+    /* letter-spacing: 1px; */
+    margin-bottom: 15px;
+    font-family: 'Montserrat';
+}
+
+#product-103061 .cw-tst32-free-products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 26px;
+}
+
+#product-103061 .cw-tst32-free-product {
+    max-width: 115px;
+    background: #F3F3F3;
+    border-radius: 7px;
+    width: 100%;
+}
+
+#product-103061 .cw-tst32-product-title {
+    padding: 10px 0;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 600;
+    color: black;
+}
+
+#product-103061 .cw-tst32-product-price span {
+    color: #EE3B26;
+    font-weight: 700;
+}
+
+#product-103061 .cw-tst32-product-price strong {
+    color: black;
+}
+
+#product-103061 .cw-tst32-product-price del {
+    color: #909090;
+}
+
+#product-103061 .cw-tst32-product-price {
+    display: flex;
+    gap: 2px;
+    font-size: 11px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+#product-103061 .cw-tst32-product-image img {
+    width: 100%;
+    margin-left: auto;
+}
+
+#product-103061 .product-short-description h3 {
+    color: #EE3B26;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+#product-103061 .cw-tst32-prices {
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 23px;
+}
+
+#product-103061 #learn-more {
+	display: none !important;
+}
+
+@media (min-width: 768px) {
+	#product-103061 .price-wrapper .price {
+		font-size: 23px;
+	}
+
+	#product-103061 .newp h4 {
+		font-size: 15px;
+	}
+
+	#product-103061 .price-wrapper {
+		margin-bottom: 30px;
+	}
+
+	#product-103061 .product-short-description p {
+		font-size: 15px;
+		margin-bottom: 30px;
+	}
+
+	#product-103061 .cw-tst32-product-title {
+		font-size: 12px;
+	}
+
+	#product-103061 .cw-tst32-free-product {
+		max-width: 120px;
+	}
+
+	#product-103061 .cw-tst32-free-products {
+		margin-bottom: 30px;
+	}
+
+	#product-103061 .cw-tst32-product-price {
+		font-size: 12px;
+		gap: 2px;
+	}
+
+	#product-103061 .product-short-description h3 {
+		font-size: 15px;
+		margin-bottom: 20px;
+	}
+}
